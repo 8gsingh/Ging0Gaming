@@ -1,1 +1,1 @@
-<?php header( 'Location: /Ging0 gaming  website.html' ) ;  ?
+<?php header( 'Location: /index.html' ) ;  ?
