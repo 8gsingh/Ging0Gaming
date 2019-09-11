@@ -29,11 +29,15 @@ body {
 .main {
   margin-left: 200px; 
 }
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
-}
+
 body {
 background-color: #606060
 }
-
+h2{
+   
+    margin-right: 90px;
+}
+.picture{
+    margin-left: 800px;
+    margin-top:-270px;
+}
