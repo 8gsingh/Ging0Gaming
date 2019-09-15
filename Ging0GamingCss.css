@@ -41,3 +41,20 @@ h2{
     margin-left: 800px;
     margin-top:-270px;
 }
+
+
+.hr1{
+        
+       animation: photo 4s ease-in-out;
+}
+@keyframes photo {
+  from { margin-left: 900px; margin-right:10000px;}
+  to {margin-left:0px; margin-right: 0px;}      
+    }
+.photo1{
+           animation: photo 4s ease-in-out;
+}
+@keyframes photo {
+  from { margin-left: 900px; margin-right:10000px;}
+  to {margin-left:0px; margin-right: 0px;}   
+}
