@@ -5,6 +5,7 @@ body {
     
 }
 .sidenav {
+    margin-bottom: 10px;
   height: 100%;
   width: 200px;
   position: fixed;
@@ -14,6 +15,11 @@ body {
   background-color: #111;
   overflow-x: hidden;
   padding-top: 20px;
+}
+.sidenav a:hover{
+    
+font-size: 25.5px;
+    color:darkred;
 }
 .sidenav a {
   padding: 6px 6px 6px 32px;
